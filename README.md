@@ -28,7 +28,7 @@ Steps-
                                                       Validation Loss Curve.
 ```
 
-![Screenshot from 2022-06-09 11-31-54](https://user-images.githubusercontent.com/28132746/172825786-a540c0fb-305e-4ce8-a094-68b1758bcccb.png)
+![val-loss1](https://user-images.githubusercontent.com/28132746/172874194-259a07f9-bbdc-44ba-8515-93e3a0615d36.png)
 
 
 ```
