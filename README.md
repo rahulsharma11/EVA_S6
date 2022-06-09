@@ -77,6 +77,6 @@ with L1 and L2 with GBN                 99.52                                   
 ```
 Note-
 ```
-It can be said that all it depends on type of datasets and model architecture which we are training on. 
+It can be said that all it depends on type of datasets and model architecture which we are training on. My model architecture for MNIST with above combination gave these results.
 
 
